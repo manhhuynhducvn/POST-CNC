@@ -1,0 +1,15 @@
+# Python cache / local environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
